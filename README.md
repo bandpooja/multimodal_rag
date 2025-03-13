@@ -3,7 +3,9 @@
 
 This repository provides a robust implementation of a Retrieval-Augmented Generation (RAG)-based chatbot designed to answer user queries about Home Depot products. The RAG system combines preprocessed product data with an OpenAI-powered chatbot to generate accurate, context-aware responses. The bot retrieves relevant product details, images, and additional context from a Chroma vector store powered by OpenCLIP embeddings.
 
-![multimodal](static/demo.gif)
+![demo](static/demo1.gif)
+![demo pic 1](static/pic1.png)
+![demo pic 2](static/pic2.png)
 
 
 ## Installation
