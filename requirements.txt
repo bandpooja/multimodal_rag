@@ -1,0 +1,12 @@
+langchain
+langchain-chroma
+langchain_experimental
+langchain-openai
+langchain_community
+numpy
+open_clip_torch
+Pillow
+pandas
+requests
+torch
+transformers
